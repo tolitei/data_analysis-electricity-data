@@ -1,24 +1,24 @@
 # Electricity Data Analysis Project
 
 ## Table of Contents
-- [1. About](#1.-about)
-- [2. Project Overview](#2.-project-overview)
-- [3. Dataset](#3.-dataset)
-- [4. Methodology](#4.-methodology)
-- [5. Project Structure](#5.-project-structure)
-- [6. Benefits of Doing This Project](#6.-benefits-of-doing-this-project)
+- [1. About](#about)
+- [2. Project Overview](#project-overview)
+- [3. Dataset](#dataset)
+- [4. Methodology](#methodology)
+- [5. Project Structure](#project-structure)
+- [6. Benefits of Doing This Project](#benefits-of-doing-this-project)
 
 
 
-## 1. About
+## About
 Hi, I'm Tiago. I hold a Master's degree in Mechanical Engineering and I am currently a researcher dedicated to applying Machine Learning techniques to the renewable energy sector.
 This is my first data analysis project, which I have worked on in my free time (not related to my professional work). I hope you find this project informative and valuable.
 For any issues, suggestions, comments, or questions, please contact me.
 
-## 2. Project Overview
+## Project Overview
 This project analyzes global electricity data, focusing on various metrics such as electricity generation, net imports and emissions. The data is sourced from multiple reputable organizations and compiled to provide a comprehensive view of the electricity landscape across different countries and regions.
 
-## 3. Dataset
+## Dataset
 ### Source
 The dataset used in this project is the "Yearly Electricity" dataset provided by EMBER. This dataset contains information on electricity generation, net imports, demand, installed capacity, and emissions across various countries and regions.
 
@@ -27,7 +27,7 @@ The dataset is publicly available and can be accessed at the following link:
 [EMBER Yearly Electricity Data](https://ember-climate.org/data-catalogue/yearly-electricity-data/)
 
 
-## 4. Methodology
+## Methodology
 
 This project utilizes 10 years of data (2012-2022) and focuses exclusively on electricity data related to generation, imports, and demand. Installed capacity data was excluded due to the presence of null values.
 
@@ -61,12 +61,12 @@ The data is categorized into the following generation types:
 - Solar
 - Wind
 
-## Key Points
+### Key Points
 - **Accuracy and Reliability**: Data is assembled using the best available sources and methods to ensure accuracy.
 - **Bioenergy**: Included in renewable energy sources, but with noted sustainability caveats.
 - **Regional and World Estimates**: Where data is not available for all countries, estimates are made based on regional trends.
 
-## 5. Project Structure
+## Project Structure
 - 'data/': Contains raw csv data file
 - 'visualizations/': Power BI Desktop project file
 
@@ -74,7 +74,7 @@ The data is categorized into the following generation types:
 - Clone the repository.
 - Open the Power BI file in the `visualizations` folder with Power BI Desktop.
 
-## 6. Benefits of Doing This Project
+## Benefits of Doing This Project
 
 ### Personal Learning and Growth
 As this is my first data analysis project, it significantly enhanced my understanding in Power Bi software.
