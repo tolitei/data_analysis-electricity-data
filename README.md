@@ -30,7 +30,7 @@ The work is divided into two main parts:
 ![image](https://github.com/user-attachments/assets/1bdd6077-8d79-4439-9790-32370b2d8a30)
 2. **Rankings**:
     - Rank countries based on electricity and emissions generation for each fuel type.
-![image](https://github.com/user-attachments/assets/a33ff71b-52c9-4cfd-9c40-c21b2446dd92)
+![rankings](https://github.com/user-attachments/assets/9afc8630-7b67-4896-9e2c-4af4005d995b)
 
 ### Datasets
 The core datasets cover the following subjects:
