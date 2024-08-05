@@ -18,6 +18,19 @@ The dataset is publicly available and can be accessed at the following link:
 
 
 ## 4. Methodology
+
+This project utilizes 10 years of data (2012-2022) and focuses exclusively on electricity data related to generation, imports, and demand. Installed capacity data was excluded due to the presence of null values.
+
+The work is divided into two main parts:
+
+1. **Electricity/Emissions Generation**:
+    - Analyze how electricity and emissions are distributed by country and continent.
+    - Identify which fuel types are most responsible for electricity and emissions generation.
+    - Examine year-over-year differences in electricity and emissions generation by fuel type.
+
+2. **Rankings**:
+    - Rank countries based on electricity and emissions generation for each fuel type.
+
 ### Datasets
 The core datasets cover the following subjects:
 - **Electricity Generation (TWh)**: By fuel type and aggregated.
@@ -43,7 +56,7 @@ The data is categorized into the following generation types:
 - **Regional and World Estimates**: Where data is not available for all countries, estimates are made based on regional trends.
 
 ## 5. Project Structure
-- 'data/': Contains raw/processed data files
+- 'data/': Contains raw csv data file
 - 'visualizations/': Power BI Desktop project file
 
 ### How to Use
@@ -57,7 +70,7 @@ As this is my first data analysis project, it significantly enhanced my understa
 The hands-on experience allowed me to explore various features and functionalities, helping me become more proeficient in data visualization and analysis.
 
 ### Insights Gained
-This project provided valuable insights into global electricity generation and usage:
+This project provided valuable insights into global electricity generation and usage. Some curiosities that I found:
 - I discovered that Albania meets all electricity demand through hydro generation;
 - Brazil stands out as the third-largest producer of electricity from renewable sources;
 - Asia's energy production for electricity is substantial accounting for approximately 56% of the world's total electricity production.
