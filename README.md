@@ -1,12 +1,13 @@
 # Electricity Data Analysis Project
 
 ## Table of Contents
-[About](#About)
-[Project Overview](#Project-Overview)
-[Dataset](#dataset)
-[Methodology](#methodology)
-[Project Structure](#project-structure)
-[Benefits of Doing This Project](#benefits-of-doing-this-project)
+1. [About](#about)
+2. [Project Overview](#project-overview)
+3. [Dataset](#dataset)
+4. [Methodology](#methodology)
+5. [Project Structure](#project-structure)
+6. [Benefits of Doing This Project](#benefits-of-doing-this-project)
+
 
 
 ## 1. About
