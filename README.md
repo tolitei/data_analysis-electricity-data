@@ -1,8 +1,8 @@
 # Electricity Data Analysis Project
 
 ## Table of Contents
-[About](#about)
-[Project Overview](#project-overview)
+[About](#About)
+[Project Overview](#Project-Overview)
 [Dataset](#dataset)
 [Methodology](#methodology)
 [Project Structure](#project-structure)
