@@ -10,15 +10,15 @@
 
 
 
-## 1. About
+## About
 Hi, I'm Tiago. I hold a Master's degree in Mechanical Engineering and I am currently a researcher dedicated to applying Machine Learning techniques to the renewable energy sector.
 This is my first data analysis project, which I have worked on in my free time (not related to my professional work). I hope you find this project informative and valuable.
 For any issues, suggestions, comments, or questions, please contact me.
 
-## 2. Project Overview
+## Project Overview
 This project analyzes global electricity data, focusing on various metrics such as electricity generation, net imports and emissions. The data is sourced from multiple reputable organizations and compiled to provide a comprehensive view of the electricity landscape across different countries and regions.
 
-## 3. Dataset
+## Dataset
 ### Source
 The dataset used in this project is the "Yearly Electricity" dataset provided by EMBER. This dataset contains information on electricity generation, net imports, demand, installed capacity, and emissions across various countries and regions.
 
@@ -27,7 +27,7 @@ The dataset is publicly available and can be accessed at the following link:
 [EMBER Yearly Electricity Data](https://ember-climate.org/data-catalogue/yearly-electricity-data/)
 
 
-## 4. Methodology
+## Methodology
 
 This project utilizes 10 years of data (2012-2022) and focuses exclusively on electricity data related to generation, imports, and demand. Installed capacity data was excluded due to the presence of null values.
 
@@ -66,7 +66,7 @@ The data is categorized into the following generation types:
 - **Bioenergy**: Included in renewable energy sources, but with noted sustainability caveats.
 - **Regional and World Estimates**: Where data is not available for all countries, estimates are made based on regional trends.
 
-## 5. Project Structure
+## Project Structure
 - 'data/': Contains raw csv data file
 - 'visualizations/': Power BI Desktop project file
 
@@ -80,7 +80,7 @@ The data is categorized into the following generation types:
 As this is my first data analysis project, it significantly enhanced my understanding in Power Bi software.
 The hands-on experience allowed me to explore various features and functionalities, helping me become more proeficient in data visualization and analysis.
 
-### 6. Insights Gained
+### Insights Gained
 This project provided valuable insights into global electricity generation and usage. Some curiosities that I found:
 - I discovered that Albania meets all electricity demand through hydro generation;
 - Brazil stands out as the third-largest producer of electricity from renewable sources;
