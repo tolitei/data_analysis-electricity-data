@@ -11,8 +11,7 @@
 
 
 ## About
-Hi, I'm Tiago. I hold a Master's degree in Mechanical Engineering and I am currently a researcher dedicated to applying Machine Learning techniques to the renewable energy sector.
-This is my first data analysis project, which I have worked on in my free time (not related to my professional work). I hope you find this project informative and valuable.
+This is my first data analysis project, which I have worked on in my free time. I hope you find this project informative and valuable.
 For any issues, suggestions, comments, or questions, please contact me.
 
 ## Project Overview
