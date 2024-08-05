@@ -27,9 +27,10 @@ The work is divided into two main parts:
     - Analyze how electricity and emissions are distributed by country and continent.
     - Identify which fuel types are most responsible for electricity and emissions generation.
     - Examine year-over-year differences in electricity and emissions generation by fuel type.
-
+![image](https://github.com/user-attachments/assets/1bdd6077-8d79-4439-9790-32370b2d8a30)
 2. **Rankings**:
     - Rank countries based on electricity and emissions generation for each fuel type.
+![image](https://github.com/user-attachments/assets/a33ff71b-52c9-4cfd-9c40-c21b2446dd92)
 
 ### Datasets
 The core datasets cover the following subjects:
